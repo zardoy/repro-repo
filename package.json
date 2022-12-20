@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"electron": "^15.0.0"
+	},
+	"scripts": {
+		"start": "electron index.js"
+	},
+	"main": "index.mjs"
+}
